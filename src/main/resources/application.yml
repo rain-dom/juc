@@ -2,8 +2,8 @@ spring:
   task:
     execution:
       pool:
-        max-size: 1
-        core-size: 1
+        max-size: 9
+        core-size: 9
         keep-alive: 3s
-        queue-capacity: 1000
-      thread-name-prefix: mythread-
+        queue-capacity: 20
+      thread-name-prefix: thread-
