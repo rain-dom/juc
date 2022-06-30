@@ -1,4 +1,4 @@
-package com.example.juc.completeblefuture;
+package com.example.juc.T_05_completeblefuture;
 
 import java.util.concurrent.CompletableFuture;
 

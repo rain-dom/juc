@@ -1,4 +1,4 @@
-package com.example.juc.completeblefuture;
+package com.example.juc.T_05_completeblefuture;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.AsyncResult;
 import org.springframework.stereotype.Component;

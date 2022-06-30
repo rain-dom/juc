@@ -1,6 +1,6 @@
 package com.example.juc;
 
-import com.example.juc.completeblefuture.T_02_async;
+import com.example.juc.T_05_completeblefuture.T_02_async;
 import lombok.SneakyThrows;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
